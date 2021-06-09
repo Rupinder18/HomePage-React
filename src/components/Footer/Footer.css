@@ -1,0 +1,30 @@
+.footer{
+    background: -webkit-linear-gradient(45deg, black, darkslategray);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 5px solid red;
+}
+#p-p-one{
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+#p-p-two{
+    text-align: center;
+    margin: 10px;
+}
+#p-p-three{
+    color: orangered;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+
+@media(max-width:576px){
+    .footer{
+        width: 100%;
+
+    }
+
+}

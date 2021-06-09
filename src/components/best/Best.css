@@ -1,0 +1,32 @@
+.best-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.one{
+    width: 300px;
+    
+}
+.best-faculty #icon{
+    font-size: 50px;
+    color: darkslategray;
+    padding-top: 10px;
+    margin-left: 110px;
+    font-weight: bolder;
+    
+}
+.best-faculty{
+    padding: 10px;
+    margin: 10px;
+}
+.best-faculty h2{
+    color: darkslategray;
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 10px;
+    text-align: center;
+}
+.best-faculty p{
+    padding: 10px;
+}
